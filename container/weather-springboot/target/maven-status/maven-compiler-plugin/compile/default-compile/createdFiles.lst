@@ -1,0 +1,13 @@
+io/egen/api/constants/URI.class
+io/egen/api/controller/RecordController.class
+io/egen/api/service/implementation/RecordServiceImpl.class
+io/egen/api/repository/RecordRepository.class
+io/egen/api/entity/Record.class
+io/egen/api/entity/Wind.class
+io/egen/api/Application.class
+io/egen/api/repository/RecordRepositoryCustomized.class
+io/egen/api/exception/NotFoundException.class
+io/egen/api/service/RecordService.class
+io/egen/api/config/WebConfig.class
+io/egen/api/config/SwaggerConfig.class
+io/egen/api/repository/implementation/RecordRepositoryImpl.class
